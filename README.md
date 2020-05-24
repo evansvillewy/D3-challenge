@@ -22,7 +22,7 @@ The data set analyzed is based on 2014 ACS 1-year estimates: [https://factfinder
 
 ![7-animated-scatter](Images/7-animated-scatter.gif)
 
-Used D3 techniques to create a scatter plot that represents each state with circle elements. The scatter plot between various data variables.
+Used D3 techniques to create a scatter plot that represents each state with circle elements. The scatter plot  is between various data variables.
 
 Included multiple demographics and risk factors. Placed additional labels in the scatter plot and give them click events so users can decide which data to display. Animated the transitions of the circles' locations as well as the range of the axes. 
  
